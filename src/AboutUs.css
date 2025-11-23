@@ -1,8 +1,8 @@
 .about-us-container {
-    width: 1000px;
-    /* margin: 0 auto; */
-    /* padding: 20px; */
-    /* background-color: red; */
+    width: 90%;        /* fills the screen */
+    max-width: 1000px;  /* but never grows beyond 1000px */
+    margin: 0 auto;     /* centers it on larger screens */
+    padding: 20px;
     text-align: justify;
   }
   
